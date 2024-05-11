@@ -29,10 +29,10 @@ module.exports = {
   run: async (client, interaction) => {
     try {
 
-      const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-      const githubLink = "https://github.com/GlaceYT";
-      const replitLink = "https://replit.com/@GlaceYT";
-      const youtubeLink = "https://www.youtube.com/@GlaceYT";
+      const supportServerLink = "https://discord.gg/acWvYKJAPy";
+      const githubLink = "https://github.com/runxking123";
+      const replitLink = "https://replit.com/@runxking";
+      const youtubeLink = "https://www.youtube.com/@Runxking";
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
             .setAuthor({
